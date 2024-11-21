@@ -48,6 +48,7 @@ python main.py
 
 ## 📁 Project Structure
 
+```
 project/
 ├── .env # Environment variables
 ├── requirements.txt # Project dependencies
@@ -61,7 +62,7 @@ project/
 ├── search.py # Search utilities
 ├── display.py # Display formatting
 └── schema_setup.py # Database schema setup
-
+```
 
 ## 🔍 Features in Detail
 
