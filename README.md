@@ -118,6 +118,3 @@ To add new features:
 - The free tier of services may have rate limits
 - Sample data is automatically added on first run
 
-## 📝 License
-
-[Add your license information here]
