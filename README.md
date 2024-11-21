@@ -1,4 +1,4 @@
-# ReRank Search Application
+# Keyword + Dense Retrieval + ReRank
 
 A modular Python application that demonstrates different search approaches using Weaviate vector database and Cohere's reranking capabilities.
 
