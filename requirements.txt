@@ -1,0 +1,3 @@
+cohere
+weaviate-client
+python-dotenv 
