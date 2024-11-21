@@ -2,6 +2,9 @@
 
 A modular Python application that demonstrates different search approaches using Weaviate vector database and Cohere's reranking capabilities.
 
+- Google Slides: https://docs.google.com/presentation/d/11Sd8vFVuP5uCH1HreDF-P3Iw6UkspWnTVu4VOuRb__Q/edit?usp=sharing
+- Google Slides (PDF): https://drive.google.com/file/d/1smHJJK9NCgFTch5_Y01SzWE3YesFAUjt/view?usp=sharing
+
 ## 🌟 Features
 
 - **Dense Retrieval**: Vector-based semantic search using Weaviate
